@@ -6,7 +6,7 @@
         <b-link href="https://instagram.com/okengsukafoto"><b-img class="logo" src="..\assets\osf\osf_logo.svg"></b-img></b-link>
       </b-col>
       <b-col class="osf-col">
-        <b-link href="https://instagram.com/okengsukafoto" class="contact" align-v="center">INSTAGRAM</b-link>&nbsp;&nbsp;
+        <b-link href="https://instagram.com/okengsukafoto" class="contact" align-v="center">INSTAGRAM</b-link>
         <b-link href="mailto:osf@kawijayaa.me" class="contact" align-v="center">EMAIL</b-link>
       </b-col>
     </b-row>
@@ -91,12 +91,18 @@
   @media (max-width: 768px) {
     .contact {
       text-align: center;
+      margin: 0 1vw 0 1vw !important;
+      font-size: 1em;
     }
     .nav-row {
       justify-content: center  !important;;
     }
     .back {
       margin-right: 1.5vw !important;
+    }
+    .osf-col {
+      margin: 0 !important;
+      padding: 0;
     }
   }
   @media (max-width: 992px) {
@@ -134,7 +140,7 @@
   }
   .contact {
     text-align: right;
-    margin: 0 !important;
+    margin: 0 0.5vw 0 0.5vw;
     font-size: 1.5em;
     text-decoration: none;
     color: var(--dark);
