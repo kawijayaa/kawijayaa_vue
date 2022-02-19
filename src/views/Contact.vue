@@ -66,4 +66,7 @@ export default {
     text-decoration: none !important;
     font-size: 1.1rem;
   }
+  a:hover {
+    color: var(--blue);
+  }
 </style>
