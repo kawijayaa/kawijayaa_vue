@@ -6,8 +6,8 @@
         <b-link href="https://instagram.com/okengsukafoto"><b-img class="logo" src="..\assets\osf\osf_logo.svg"></b-img></b-link>
       </b-col>
       <b-col class="osf-col">
-        <b-link href="https://instagram.com/okengsukafoto" class="contact" align-v="center">instagram</b-link>&nbsp;&nbsp;
-        <b-link href="mailto:osf@kawijayaa.me" class="contact" align-v="center">email</b-link>
+        <b-link href="https://instagram.com/okengsukafoto" class="contact" align-v="center">INSTAGRAM</b-link>&nbsp;&nbsp;
+        <b-link href="mailto:osf@kawijayaa.me" class="contact" align-v="center">EMAIL</b-link>
       </b-col>
     </b-row>
     <b-row class="img-row" align-h="center">
