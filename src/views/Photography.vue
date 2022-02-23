@@ -12,7 +12,7 @@
     </b-row>
     <b-row class="img-row" align-h="center">
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_5454.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_5457.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_5073.jpg"></b-img>
