@@ -12,7 +12,7 @@
     </b-row>
     <b-row class="img-row" align-h="center">
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_5550.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_5454.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_5073.jpg"></b-img>
@@ -42,19 +42,16 @@
         <b-img class="image" src="..\assets\osf\osf_4059.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_3811.jpg"></b-img>
-      </b-col>
-      <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_3761.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_1779.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_9713.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_1569.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_9659.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_9713.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_1281.jpg"></b-img>
@@ -66,7 +63,10 @@
         <b-img class="image" src="..\assets\osf\osf_8908.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_4885.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_5015.jpg"></b-img>
+      </b-col>
+      <b-col class="img-col">
+        <b-img class="image" src="..\assets\osf\osf_4522.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_3857.jpg"></b-img>
