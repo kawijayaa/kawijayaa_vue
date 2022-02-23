@@ -21,7 +21,13 @@
         <b-img class="image" src="..\assets\osf\osf_4970.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
+        <b-img class="image" src="..\assets\osf\osf_4747.jpg"></b-img>
+      </b-col>
+      <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_4767.jpg"></b-img>
+      </b-col>
+      <b-col class="img-col">
+        <b-img class="image" src="..\assets\osf\osf_4728.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_4612.jpg"></b-img>
@@ -30,7 +36,7 @@
         <b-img class="image" src="..\assets\osf\osf_4259.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_4189.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf_4239.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_4059.jpg"></b-img>
@@ -43,6 +49,9 @@
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_1569.jpg"></b-img>
+      </b-col>
+      <b-col class="img-col">
+        <b-img class="image" src="..\assets\osf\osf_9713.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_1281.jpg"></b-img>
@@ -60,19 +69,10 @@
         <b-img class="image" src="..\assets\osf\osf_4522.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\osf_4553.jpg"></b-img>
-      </b-col>
-      <b-col class="img-col">
         <b-img class="image" src="..\assets\osf\osf_3857.jpg"></b-img>
       </b-col>
       <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\grandwis-109.jpg"></b-img>
-      </b-col>
-      <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\bukitpermai-4.jpg"></b-img>
-      </b-col>
-      <b-col class="img-col">
-        <b-img class="image" src="..\assets\osf\rmh parellll-17.jpg"></b-img>
+        <b-img class="image" src="..\assets\osf\osf-17.jpg"></b-img>
       </b-col>
     </b-row>
   </b-container>
